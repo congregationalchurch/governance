@@ -186,9 +186,11 @@ CONGREGATIONAL CHURCH OF BATAVIA BY-LAWS
 10. Fellowship Ministry Team
 
 	1. The Fellowship Ministry Team shall be responsible for facilitating Christian fellowship opportunities and shall:
+
 		a. Foster supportive and friendly connections among members and visitors of our church;
 		b. Incorporate a wide range of ages and preferences into fellowship opportunities;
 		c. Coordinate as appropriate with other Ministry Teams to share fellowship ideas, opportunities and resources.
+
 	2. The Fellowship Ministry Team, in conjunction with the Evangelism Ministry Team, shall embrace new church members by facilitating celebratory meals and/or welcoming activities.
 	3. The Director of Connections shall be an ex-officio member of the Fellowship Ministry Team.
 
