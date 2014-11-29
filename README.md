@@ -1,4 +1,4 @@
 Governance
 ============
 
-The Constitution &amp; By-Laws for The Congregational Church of Batavia, United Church of Christ.
+The [Constitution](constitution.md) &amp; [By-Laws](bylaws.md) for The Congregational Church of Batavia, United Church of Christ.
